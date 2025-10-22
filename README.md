@@ -408,8 +408,8 @@ Contributions are welcome! Please follow these steps:
 
 - Fourth-year Computer Science and Engineering student
 - Passionate about scalable backend systems and software architecture
-- GitHub: [@yourusername](https://github.com/Abhishekanand1185)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/abhishekanand1065)
+- GitHub: [Abhishek Anand](https://github.com/Abhishekanand1185)
+- LinkedIn: [Abhishek Anand](https://www.linkedin.com/in/abhishekanand1065)
 - Email: abhishekanand1185@gmail.com
 
 ## 🙏 Acknowledgments
