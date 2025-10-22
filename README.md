@@ -142,12 +142,12 @@ properties
 spring.application.name=uberApp
 spring.datasource.url=jdbc:postgresql://localhost:5432/postgres
 spring.datasource.username=postgres
-spring.datasource.password=root
+spring.datasource.password=
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.format_sql=true
-spring.mail.username=anujcodingshuttle@gmail.com
-spring.mail.password=lyxy ckft qeet ukuf
+spring.mail.username=
+spring.mail.password=
 spring.mail.host=smtp.gmail.com
 spring.mail.port=587
 spring.mail.properties.mail.smtp.auth=true
@@ -232,8 +232,8 @@ mvn spring-boot:run
 
 ## 👤 Author
 
-*Md Maaz Jahangir*
-Third-year Mechanical Engineering student passionate about software development and scalable backend systems.
+*Abhishek Anand*
+Fourth year Computer Science and Engineering student passionate about software development and scalable backend systems.
 
 ---
 
