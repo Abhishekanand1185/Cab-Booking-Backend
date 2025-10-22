@@ -79,8 +79,13 @@ Implements flexible payment options:
 * Sends verification emails and password resets via Gmail.
 * SMTP configuration included in application.properties.
 
----
+### 9. *Route and Distance Calculation (OSRM)*
 
+* Integrates with **OSRM API** for:
+  - Route mapping between pickup and drop.
+  - Distance and duration estimation.
+  - Real-world accurate ride fare calculations.
+---
 ## 🔧 Technical Stack
 
 | Component                   | Technology                |
@@ -89,11 +94,12 @@ Implements flexible payment options:
 | *ORM*                     | Hibernate / JPA           |
 | *Database*                | PostgreSQL                |
 | *Authentication*          | Spring Security + JWT     |
-| *Email*                   | Gmail SMTP                |
+| *Email Service*           | Gmail SMTP                |
 | *Mapping*                 | ModelMapper               |
-| *Geospatial Calculations* | JTS (Java Topology Suite) |
+| *Routing & Distance API*  | OSRM (Open Source Routing Machine) |
 
 ---
+
 
 ## 🔊 Core Packages Explained
 
