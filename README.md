@@ -1,8 +1,8 @@
-# 🚗 UberApp - Ride Hailing Platform (Spring Boot)
+# 🚗 QuickCab - Ride Hailing Platform (Spring Boot)
 
 ## 🔗 Overview
 
-*UberApp* is a ride-hailing application built using *Spring Boot*, designed to replicate the core functionalities of platforms like Uber. It enables users to book rides, drivers to accept them, and supports multiple payment strategies, dynamic fare calculation, and email-based authentication.
+*QuickCab* is a ride-hailing application built using *Spring Boot*, designed to replicate the core functionalities of platforms like Uber. It enables users to book rides, drivers to accept them, and supports multiple payment strategies, dynamic fare calculation, and email-based authentication.
 
 The project is designed with modular service layers, strategy patterns, and JPA-based persistence, showcasing best practices for scalable backend architecture.
 
